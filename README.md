@@ -1,2 +1,3 @@
-# aprendento-java
-Repositório feito para registrar minha aprendizagem com linguagem Java
+# Java
+
+README Será atualizado no final dos estudos
